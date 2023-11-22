@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to / DC's blog"
+title                    : "Dong Chen / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dong Chen"
   avatar           : "Dong Chen.png"
-  bio              : "Be strict with yourself"
+  bio              : "Welcome to DC's blog"
   location         : "Hangzhou"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
