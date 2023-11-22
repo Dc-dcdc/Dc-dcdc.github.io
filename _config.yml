@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome to DC's blog"
+title                    : "Welcome to / DC's blog"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
