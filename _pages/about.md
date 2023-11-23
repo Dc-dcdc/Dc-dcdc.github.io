@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 His research interests include 
-\bullet federated learning
-\bullet privacy analysis and protection
+* Federated learning
+* Privacy analysis and protection
 
 <!--
 A data-driven personal website
