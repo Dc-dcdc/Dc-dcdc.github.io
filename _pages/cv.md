@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-<a href ="www.baidu.com">董晨大帅哥</a>
+<a href ="https://www.baidu.com">董晨大帅哥</a>
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 * Summer 2015: Research Assistant
