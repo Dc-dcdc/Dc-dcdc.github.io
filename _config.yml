@@ -246,7 +246,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _experience
+  # _experiences
   - scope:
       path: ""
       type: experiences
