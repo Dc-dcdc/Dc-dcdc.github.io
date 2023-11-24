@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Welcome to DC's blog"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "DC"
 description              : &description "personal description"
 url                      : https://Dc-dcdc.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
