@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-<a href ="https://dc-dcdc.github.io/publication/2023-11-09-paper-title-number-1">董晨大帅哥 </a>
+<a href ="https://dc-dcdc.github.io/publication/2023-11-09-paper-title-number-1">董晨 </a>
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 * Summer 2015: Research Assistant
