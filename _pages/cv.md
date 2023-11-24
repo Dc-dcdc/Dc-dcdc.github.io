@@ -32,7 +32,7 @@ This is an item in your portfolio. It can be have images or nice text. If you na
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
+   
 Skills
 ======
 * Skill 1
