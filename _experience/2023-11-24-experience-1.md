@@ -1,7 +1,7 @@
 ---
 title: "Experience 1 on Relevant Topic in Your Field"
-collection: talks
-type: "Talk"
+collection: experience
+type: "Experience"
 permalink: /experience/2023-11-24-experience-1
 venue: "UC San Francisco, Department of Testing"
 date: 2023-11-24
