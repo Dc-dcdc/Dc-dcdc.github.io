@@ -1,8 +1,8 @@
 ---
 title: "Experience 1 on Relevant Topic in Your Field"
-collection: experience
+collection: experiences
 type: "Experience"
-permalink: /experience/2023-11-24-experience-1
+permalink: /experiences/2023-11-24-experience-1
 venue: "UC San Francisco, Department of Testing"
 date: 2023-11-24
 location: "San Francisco, California"
