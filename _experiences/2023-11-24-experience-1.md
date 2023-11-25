@@ -8,14 +8,14 @@ date: 2023-11-24
 location: "San Francisco, California"
 ---
 
-This is a description of your experience, which is a markdown files that can be all markdown-ified like any other post. Yay markd11own!
+This is a description of my competition experience, 2018-2022
 
 -This is a smart car team photo.
 <br/><img src='/images/500x300.png'>
 
 ---
 
-- This is a smart car team photo2.
+* This is a smart car team photo2.
 
 * This is a smart car team photo3.
 
