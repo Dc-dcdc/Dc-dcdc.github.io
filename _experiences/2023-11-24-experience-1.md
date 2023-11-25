@@ -32,3 +32,12 @@ This is a description of your experience, which is a markdown files that can be 
     color: #999;
     padding: 2px;">1111</div>
 </center>
+
+<center>
+    <img src="/images/参赛证.png" width="60%" alt=""/>
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">参赛证</div>
+</center>
