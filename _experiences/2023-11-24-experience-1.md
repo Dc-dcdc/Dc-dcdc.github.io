@@ -11,17 +11,6 @@ location: "San Francisco, California"
 This is a description of my competition experience, 2018-2022
 
 -This is a smart car team photo.
-<br/><img src='/images/500x300.png'>
-
----
-
-* This is a smart car team photo2.
-
-* This is a smart car team photo3.
-
-===
-
-* This is a smart car team photo4.
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
@@ -41,7 +30,7 @@ This is a description of my competition experience, 2018-2022
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    /* padding: 2px;">参赛证</div> */
+    padding: 2px;">参赛证</div> 
 </center>
 
 * End
@@ -53,5 +42,5 @@ This is a description of my competition experience, 2018-2022
     <div style="color:orange; border-bottom: 1px solid #d9d9d9;
     display: inline-block;
     color: #999;
-    /* padding: 2px;">"学长风采"</div> */
+     padding: 2px;">"学长风采"</div> 
 </center>
