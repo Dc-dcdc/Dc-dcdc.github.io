@@ -12,6 +12,11 @@ His research interests include
 * Federated learning
 * Privacy analysis and protection
 
+Tutor
+======
+* [Guo fanghong](https://scholar.google.com.hk/citations?hl=zh-CN&user=M-dHZGIAAAAJ)
+* [Wu qi](https://ipca-lab.github.io/)
+
 <!--
 A data-driven personal website
 ======

@@ -15,13 +15,13 @@ This is a description of your experience, which is a markdown files that can be 
 
 ---
 
--This is a smart car team photo2.
+- This is a smart car team photo2.
 
-*This is a smart car team photo3.
+* This is a smart car team photo3.
 
 ===
 
--This is a smart car team photo4.
+* This is a smart car team photo4.
 <center>
     <img style="border-radius: 0.3125em;
     box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
