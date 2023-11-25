@@ -9,6 +9,6 @@ location: "San Francisco, California"
 ---
 
 This is a description of your experience, which is a markdown files that can be all markdown-ified like any other post. Yay markd11own!
-This is a description of your experience, which is a markdown files that can be all markdown-ified like any other post. Yay mark22down!
 
-This is a description of your experience, which is a markdown files that can be all markdown-ified like any other post. Yay mark33down!
+This is a smart car team photo.
+<br/><img src='/images/500x300.png'>
