@@ -14,8 +14,8 @@ His research interests include
 
 Tutor
 ======
-* [Guo fanghong](https://scholar.google.com.hk/citations?hl=zh-CN&user=M-dHZGIAAAAJ)
-* [Wu qi](https://ipca-lab.github.io/)
+* [Guo Fanghong](https://scholar.google.com.hk/citations?hl=zh-CN&user=M-dHZGIAAAAJ)
+* [Wu Qi](https://ipca-lab.github.io/)
 
 <!--
 A data-driven personal website
