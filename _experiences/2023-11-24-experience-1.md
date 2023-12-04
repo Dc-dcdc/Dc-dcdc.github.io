@@ -3,9 +3,7 @@ title: "智能车之旅"
 collection: experiences
 type: "Experience"
 permalink: /experiences/2023-11-24-experience-1/
-venue: "UC San Francisco, Department of Testing"
 date: 2023-11-24
-location: "San Francisco, California"
 ---
 
 这是一段在仰仪智能车的旅程, 2018-2022
