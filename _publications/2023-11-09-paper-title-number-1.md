@@ -4,12 +4,13 @@ collection: publications
 permalink: /publication/2023-11-09-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023-11-09
-venue: 'Journal 1'
+venue: 'December 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Q. Wu, C. Dong, F. Guo, L. Wang, X. Wu and C. Wen, "Privacy-Preserving Federated Learning for Power Transformer Fault Diagnosis With Unbalanced Data," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3333914.'
+
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/10337794)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Q. Wu, C. Dong, F. Guo, L. Wang, X. Wu and C. Wen, "Privacy-Preserving Federated Learning for Power Transformer Fault Diagnosis With Unbalanced Data," in IEEE Transactions on Industrial Informatics, doi: 10.1109/TII.2023.3333914.
